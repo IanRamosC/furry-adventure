@@ -1,0 +1,11 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "description": "A test site for blogging",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Ramos",
+  "license": "ISC"
+}
